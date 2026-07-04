@@ -1,20 +1,34 @@
-# Supply Chain Performance Power BI Dashboard
+# Supply Chain Power BI Dashboard
 
-An interactive Power BI dashboard designed to help supply chain stakeholders monitor operational performance, optimize inventory management, and improve logistics efficiency.
+A Power BI dashboard developed to help supply chain stakeholders monitor supplier performance, logistics efficiency, inventory operations, and product quality across the supply chain.
 
 ---
 
-# Project Summary
+# Project Overview
+
+This dashboard was created to provide procurement managers, supply chain leaders, and business stakeholders with a centralized view of operational performance.
+
+The dashboard enables users to:
+
+- Monitor supplier performance
+- Evaluate logistics efficiency
+- Analyze product quality
+- Track operational KPIs
+- Support supply chain decision making
+
+---
+
+# Project Information
 
 | Item | Details |
 |------|---------|
-| **Industry** | Supply Chain & Logistics |
-| **Role** | Power BI Developer |
-| **Tools** | Power BI, Power Query, DAX |
-| **Data Source** | Supply Chain Dataset (Kaggle) |
-| **Dashboard Type** | Executive Supply Chain Dashboard |
-| **Audience** | Operations Managers, Supply Chain Analysts, Business Stakeholders |
-| **Skills** | Data Modeling, KPI Design, Inventory Analytics, Executive Reporting |
+| Industry | Supply Chain & Logistics |
+| Role | Power BI Developer |
+| Tools | Power BI, DAX, Power Query |
+| Data Source | Kaggle Supply Chain Dataset |
+| Dashboard Type | Executive Dashboard |
+| Audience | Supply Chain Managers, Procurement Teams, Business Stakeholders |
+| Skills | Data Modeling, KPI Design, Supply Chain Analytics, Data Visualization |
 
 ---
 
@@ -24,144 +38,37 @@ An interactive Power BI dashboard designed to help supply chain stakeholders mon
 
 ![Executive Overview](01-executive-overview.jpg)
 
-Provides an executive overview of supply chain performance, operational KPIs, and inventory status.
+Provides a high-level overview of revenue, product categories, supplier performance, operational KPIs, and product quality.
 
 ---
 
-## Inventory Analysis
+## Supplier & Logistics Performance
 
-![Inventory Analysis](02-inventory-analysis.jpg)
+![Supplier & Logistics Performance](02-supplier-logistics-performance.jpg)
 
-Monitors inventory levels, stock availability, and replenishment performance.
-
----
-
-## Logistics & Delivery Performance
-
-![Logistics Performance](03-logistics-performance.jpg)
-
-Analyzes shipping efficiency, delivery performance, supplier performance, and transportation metrics.
+Evaluates supplier lead time, logistics performance, transportation efficiency, manufacturing lead time, and supplier quality metrics.
 
 ---
 
-## Executive Summary & Recommendations
+## Product & Quality Analysis
 
-![Executive Summary](04-executive-summary.jpg)
+![Product & Quality Analysis](03-product-quality-analysis.jpg)
 
-Summarizes operational findings, business recommendations, and improvement opportunities.
+Analyzes product revenue, SKU performance, product categories, defect rates, and product distribution across locations.
+
+---
+
+## Executive Summary & Business Recommendations
+
+![Business Summary](04-business-summary.jpg)
+
+Summarizes key business insights and provides actionable recommendations for improving supply chain performance.
 
 ---
 
 # Business Problem
 
-Supply chain organizations require timely operational visibility to balance inventory, improve supplier performance, and reduce logistics costs.
+Supply chain organizations often struggle to answer questions such as:
 
-Without centralized reporting, stakeholders struggle to:
-
-- Monitor inventory availability
-- Track supplier performance
-- Improve delivery efficiency
-- Reduce operational bottlenecks
-- Support strategic planning
-
----
-
-# Business Questions
-
-This dashboard answers questions such as:
-
-- Which products require replenishment?
-- Which suppliers perform best?
-- Which logistics operations experience delays?
-- What factors impact inventory turnover?
-- How can operational efficiency be improved?
-
----
-
-# Key Insights
-
-### Executive Monitoring
-
-- Inventory and logistics KPIs are monitored through a centralized dashboard.
-- Operational bottlenecks are identified using interactive filters.
-
-### Inventory Performance
-
-- Low-stock products requiring replenishment are highlighted.
-- Inventory turnover trends support stock optimization.
-
-### Logistics Performance
-
-- Delivery efficiency varies by supplier and shipping channel.
-- Shipping delays can be identified for operational improvement.
-
-### Executive Recommendations
-
-- Improve supplier performance monitoring.
-- Optimize inventory replenishment planning.
-- Reduce delivery delays through operational improvements.
-- Improve inventory turnover and warehouse efficiency.
-
----
-
-# Data Preparation
-
-Data preparation was completed using Power Query, including:
-
-- Data cleansing
-- Missing value handling
-- Data transformation
-- KPI calculation
-- Data modeling
-- Interactive filtering
-
----
-
-# Tools Used
-
-- Power BI
-- Power Query
-- DAX
-
----
-
-# Data Source
-
-**Kaggle – Supply Chain Dataset**
-
----
-
-# Skills Demonstrated
-
-- Data Modeling
-- DAX
-- Power Query
-- KPI Development
-- Supply Chain Analytics
-- Executive Dashboard Design
-- Interactive Reporting
-- Business Storytelling
-
----
-
-# Business Value
-
-This dashboard enables supply chain stakeholders to:
-
-- Improve inventory visibility
-- Optimize supplier performance
-- Reduce operational delays
-- Support executive decision-making
-- Improve logistics efficiency
-
----
-
-# Future Improvements
-
-Potential future enhancements include:
-
-- Predictive inventory forecasting
-- Supplier performance scoring
-- Demand forecasting
-- Automated replenishment alerts
-- Real-time logistics monitoring
+- Which suppliers generate the highest revenue?
+- Which

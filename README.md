@@ -18,7 +18,8 @@ The solution provides a centralized executive view of operational performance an
 
 ![Executive Overview](01-executive-overview.jpg)
 
-Provides a high-level summary of revenue, product categories, supplier performance, defect rates, and operational KPIs.
+- Provides a high-level summary of revenue, product categories, supplier performance, defect rates, and operational KPIs.
+
 
 ---
 
@@ -26,7 +27,8 @@ Provides a high-level summary of revenue, product categories, supplier performan
 
 ![Supplier & Logistics Performance](02-supplier-logistics-performance.jpg)
 
-Evaluates supplier lead time, manufacturing lead time, transportation performance, supplier availability, and logistics efficiency.
+- Evaluates supplier lead time, manufacturing lead time, transportation performance, supplier availability, and logistics efficiency.
+
 
 ---
 
@@ -34,7 +36,8 @@ Evaluates supplier lead time, manufacturing lead time, transportation performanc
 
 ![Product & Quality Analysis](03-product-quality-analysis.jpg)
 
-Analyzes product revenue, SKU performance, product categories, quality metrics, and geographic product distribution.
+- Analyzes product revenue, SKU performance, product categories, quality metrics, and geographic product distribution.
+
 
 ---
 
@@ -42,7 +45,8 @@ Analyzes product revenue, SKU performance, product categories, quality metrics, 
 
 ![Business Summary](04-business-summary.jpg)
 
-Summarizes key business findings and provides actionable recommendations for improving supply chain performance.
+- Summarizes key business findings and provides actionable recommendations for improving supply chain performance.
+
 
 ---
 

@@ -134,7 +134,5 @@ This dashboard helps business stakeholders:
 # Future Improvements
 
 - Connect to a live SQL database.
-- Implement Row-Level Security (RLS).
-- Add demand forecasting using historical trends.
 - Enable scheduled data refresh.
 - Integrate real-time supplier performance monitoring.

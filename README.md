@@ -114,22 +114,4 @@ The dashboard helps stakeholders:
 - Business Storytelling
 - Data Visualization
 
----
 
-# Repository Structure
-
-```
-README.md
-01-executive-overview.jpg
-02-supplier-logistics-performance.jpg
-03-product-quality-analysis.jpg
-04-business-summary.jpg
-```
-
----
-
-# Author
-
-**Jay Shi**
-
-Business Intelligence Developer | Power BI Developer

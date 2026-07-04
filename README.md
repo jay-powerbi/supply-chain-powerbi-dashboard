@@ -1,34 +1,14 @@
 # Supply Chain Power BI Dashboard
 
-A Power BI dashboard developed to help supply chain stakeholders monitor supplier performance, logistics efficiency, inventory operations, and product quality across the supply chain.
+Interactive Power BI dashboard designed to monitor supplier performance, logistics efficiency, product quality, and operational KPIs across the supply chain.
 
 ---
 
-# Project Overview
+# Project Summary
 
-This dashboard was created to provide procurement managers, supply chain leaders, and business stakeholders with a centralized view of operational performance.
+This dashboard was developed to help supply chain managers and business stakeholders monitor supplier performance, logistics operations, inventory efficiency, and product quality through interactive visualizations.
 
-The dashboard enables users to:
-
-- Monitor supplier performance
-- Evaluate logistics efficiency
-- Analyze product quality
-- Track operational KPIs
-- Support supply chain decision making
-
----
-
-# Project Information
-
-| Item | Details |
-|------|---------|
-| Industry | Supply Chain & Logistics |
-| Role | Power BI Developer |
-| Tools | Power BI, DAX, Power Query |
-| Data Source | Kaggle Supply Chain Dataset |
-| Dashboard Type | Executive Dashboard |
-| Audience | Supply Chain Managers, Procurement Teams, Business Stakeholders |
-| Skills | Data Modeling, KPI Design, Supply Chain Analytics, Data Visualization |
+The solution provides a centralized executive view of operational performance and supports data-driven decision making across procurement and supply chain management.
 
 ---
 
@@ -38,7 +18,7 @@ The dashboard enables users to:
 
 ![Executive Overview](01-executive-overview.jpg)
 
-Provides a high-level overview of revenue, product categories, supplier performance, operational KPIs, and product quality.
+Provides a high-level summary of revenue, product categories, supplier performance, defect rates, and operational KPIs.
 
 ---
 
@@ -46,7 +26,7 @@ Provides a high-level overview of revenue, product categories, supplier performa
 
 ![Supplier & Logistics Performance](02-supplier-logistics-performance.jpg)
 
-Evaluates supplier lead time, logistics performance, transportation efficiency, manufacturing lead time, and supplier quality metrics.
+Evaluates supplier lead time, manufacturing lead time, transportation performance, supplier availability, and logistics efficiency.
 
 ---
 
@@ -54,7 +34,7 @@ Evaluates supplier lead time, logistics performance, transportation efficiency, 
 
 ![Product & Quality Analysis](03-product-quality-analysis.jpg)
 
-Analyzes product revenue, SKU performance, product categories, defect rates, and product distribution across locations.
+Analyzes product revenue, SKU performance, product categories, quality metrics, and geographic product distribution.
 
 ---
 
@@ -62,56 +42,95 @@ Analyzes product revenue, SKU performance, product categories, defect rates, and
 
 ![Business Summary](04-business-summary.jpg)
 
-Summarizes key business insights and provides actionable recommendations for improving supply chain performance.
+Summarizes key business findings and provides actionable recommendations for improving supply chain performance.
 
 ---
 
 # Business Problem
 
-Supply chain organizations often struggle to answer questions such as:
+Supply chain organizations often face challenges in identifying operational bottlenecks, evaluating supplier performance, monitoring product quality, and optimizing logistics costs.
 
-- Which suppliers generate the highest revenue?
+Without a centralized reporting solution, decision makers spend significant time gathering information from multiple sources instead of focusing on operational improvements.
+
+---
+
+# Business Questions
+
+- Which product categories generate the highest revenue?
+- Which suppliers contribute the most revenue?
 - Which suppliers have the longest lead times?
 - Which transportation methods perform best?
 - Which product categories have the highest defect rates?
-- Where should operational improvements be prioritized?
-
-This dashboard provides a centralized view that supports faster operational decision making.
+- Which operational areas should be prioritized for improvement?
 
 ---
 
 # Key Insights
 
-- Skincare products generated the highest revenue.
+- Skincare products generated the highest total revenue.
 - Supplier 1 delivered the strongest overall financial performance.
-- Rail transportation generated the highest revenue contribution.
+- Rail transportation produced the highest revenue contribution.
 - Haircare products recorded the highest average defect rate.
-- Supplier performance varies across lead time, revenue, and product quality.
+- Supplier performance varies significantly across lead time, revenue, and product quality metrics.
 
 ---
 
-# Business Impact
+# Data Preparation
 
-The dashboard helps stakeholders:
+- Cleaned and validated source data.
+- Removed duplicate and incomplete records.
+- Standardized supplier and product category names.
+- Built relationships between operational tables.
+- Created calculated columns and DAX measures.
+- Designed reusable KPI metrics for executive reporting.
 
-- Improve supplier evaluation
-- Optimize logistics performance
-- Reduce operational risk
-- Monitor product quality
-- Support executive decision making through KPI-driven insights
+---
+
+# Data Source
+
+**Kaggle Supply Chain Dataset**
+
+---
+
+# Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Excel
 
 ---
 
 # Skills Demonstrated
 
-- Power BI Dashboard Development
-- Power Query
-- DAX Measures
+- Dashboard Development
 - Data Modeling
 - KPI Design
+- DAX Calculations
+- Power Query
 - Supply Chain Analytics
 - Executive Reporting
 - Business Storytelling
 - Data Visualization
 
+---
 
+# Business Value
+
+This dashboard helps business stakeholders:
+
+- Improve supplier evaluation and monitoring.
+- Optimize logistics performance.
+- Identify quality issues earlier.
+- Support procurement decisions with KPI-driven insights.
+- Increase operational visibility across the supply chain.
+
+---
+
+# Future Improvements
+
+- Connect to a live SQL database.
+- Implement Row-Level Security (RLS).
+- Add demand forecasting using historical trends.
+- Enable scheduled data refresh.
+- Integrate real-time supplier performance monitoring.

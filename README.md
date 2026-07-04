@@ -71,4 +71,65 @@ Summarizes key business insights and provides actionable recommendations for imp
 Supply chain organizations often struggle to answer questions such as:
 
 - Which suppliers generate the highest revenue?
-- Which
+- Which suppliers have the longest lead times?
+- Which transportation methods perform best?
+- Which product categories have the highest defect rates?
+- Where should operational improvements be prioritized?
+
+This dashboard provides a centralized view that supports faster operational decision making.
+
+---
+
+# Key Insights
+
+- Skincare products generated the highest revenue.
+- Supplier 1 delivered the strongest overall financial performance.
+- Rail transportation generated the highest revenue contribution.
+- Haircare products recorded the highest average defect rate.
+- Supplier performance varies across lead time, revenue, and product quality.
+
+---
+
+# Business Impact
+
+The dashboard helps stakeholders:
+
+- Improve supplier evaluation
+- Optimize logistics performance
+- Reduce operational risk
+- Monitor product quality
+- Support executive decision making through KPI-driven insights
+
+---
+
+# Skills Demonstrated
+
+- Power BI Dashboard Development
+- Power Query
+- DAX Measures
+- Data Modeling
+- KPI Design
+- Supply Chain Analytics
+- Executive Reporting
+- Business Storytelling
+- Data Visualization
+
+---
+
+# Repository Structure
+
+```
+README.md
+01-executive-overview.jpg
+02-supplier-logistics-performance.jpg
+03-product-quality-analysis.jpg
+04-business-summary.jpg
+```
+
+---
+
+# Author
+
+**Jay Shi**
+
+Business Intelligence Developer | Power BI Developer

@@ -6,9 +6,19 @@ Interactive Power BI dashboard designed to monitor supplier performance, logisti
 
 # Project Summary
 
-This dashboard was developed to help supply chain managers and business stakeholders monitor supplier performance, logistics operations, inventory efficiency, and product quality through interactive visualizations.
+This dashboard was developed to help supply chain managers and business stakeholders monitor supplier performance, logistics efficiency, inventory availability, and product quality through interactive visualizations.
 
-The solution provides a centralized executive view of operational performance and supports data-driven decision making across procurement and supply chain management.
+The solution provides an executive-level view of supply chain operations to support supplier evaluation, logistics optimization, inventory planning, and data-driven decision-making.
+
+| Item | Details |
+|------|---------|
+| **Industry** | Supply Chain |
+| **Role** | Power BI Developer |
+| **Dashboard Type** | Supply Chain Performance Dashboard|
+| **Audience** | Supply Chain Managers, Operations Managers, Business Stakeholders |
+| **Tools** | Power BI, Power Query, DAX |
+| **Data Source** | Kaggle Supply Chain Dataset|
+| **Skills** | Data Modeling, KPI Design, Executive Reporting, Data Visualization, Business Analysis |
 
 ---
 
